@@ -1,8 +1,9 @@
 source "https://rubygems.org"
-gem "rspec"
-gem "sinatra"
-gem "hashie"
 
+gem "hashie"
+gem "sinatra"
+
+# gem "rspec"
 group :development do
 gem "pry"
 end
